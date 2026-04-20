@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Anurag Singh</h1>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=180&section=header&text=ANURAG%20SINGH&fontSize=75&fontColor=FF0080&animation=twinkling&desc=⚡+Code.+Break.+Fix.+Repeat.+|++💡+Consistency+builds+greatness.&descSize=18&descAlignY=72" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=180&section=header&text=ANURAG%20SINGH&fontSize=75&fontColor=FF0050&animation=twinkling&desc=⚡+Code.+Break.+Fix.+Repeat.+|++💡+Consistency+builds+greatness.&descSize=18&descAlignY=72" />
 </p>
 
 <div align="center">
@@ -58,13 +58,13 @@
 <h2 align="center" style="font-family: 'Courier New'; color: #FF0000;">📊 [Development_Stats]</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=anuragsingh846&show_icons=true&theme=blood&hide_border=true&bg_color=0D1117&title_color=FF0000&icon_color=FF0000&text_color=ffffff" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=anuragsingh846&show_icons=true&theme=radical&hide_border=true" width="48%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=anuragsingh846&theme=blood&hide_border=true&background=0D1117&stroke=FF0000&ring=FF0000" width="48%" />
 </p>
 
 ---
 
-<h2 align="center" style="font-family: 'Courier New'; color: #FF0000;">🏗️ [Current_Focus]</h2>
+<h2 align="center" style="font-family: 'Courier New'; color: #FF0000;">𖤐 [Current_Focus] 𖤐</h2>
 
 <p align="center" style="font-family: 'Fira Code', monospace; color: #E0E0E0;">
 🔹 <b>Mastering DSA:</b> Building consistency in high-level problem solving. <br>
@@ -84,12 +84,36 @@
 
 ---
 
-<h2 align="center" style="font-family: 'Courier New'; color: #FF0000;">📡 [Connect_With_Me]</h2>
+<h2 align="center">🌐 Connect With Me</h2>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Gmail-FF0000?style=for-the-badge&logo=gmail&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-FF0000?style=for-the-badge&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/LinkedIn-FF0000?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <a href="mailto:sagar4uallthetime@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" height="45" />
+  </a>
+  <a href="https://github.com/anuragsingh846">
+    <img src="https://skillicons.dev/icons?i=github" height="45" />
+  </a>
+  <a href="https://www.linkedin.com/in/anurag-singh-53440a377/">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="45" />
+  </a>
+  <a href="https://x.com/__dot_dot_">
+    <img src="https://skillicons.dev/icons?i=twitter" height="45" />
+  </a>
+  <a href="https://www.instagram.com/__dot_dot_/">
+    <img src="https://skillicons.dev/icons?i=instagram" height="45" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=FF0050&center=true&vCenter=true&size=22&lines=Let's+Connect!;Open+to+Collaboration;Building+in+AI%2FML;Always+Learning+Something+New" />
+</p>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=anuragsingh846&color=0e75b6&style=for-the-badge" />
 </p>
 
 <p align="center">
