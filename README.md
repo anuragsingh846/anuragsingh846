@@ -1,8 +1,4 @@
-<h1 align="center">Hi 👋, I'm Anurag Singh</h1>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=180&section=header&text=ANURAG%20SINGH&fontSize=75&fontColor=FF0050&animation=twinkling&desc=⚡+Code.+Break.+Fix.+Repeat.+|++💡+Consistency+builds+greatness.&descSize=18&descAlignY=72" />
-</p>
+<h1 align="center">Hi <img src="./assets/img/wave.gif" width="35px" alt="" />, I'm Anurag Singh</h1>
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=FF0000&center=true&vCenter=true&width=600&lines=AI%26ML+Enthusiast;Python%2C+C%2B%2B%2C+MySQL;Problem+Solver;Building+Logic+Everyday;Git+%26+Version+Control" />
