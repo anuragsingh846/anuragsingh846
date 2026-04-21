@@ -39,16 +39,29 @@
 
 ---
 
-<h2 align="center" style="font-family: 'Courier New'; color: #FF0000;">🛠️ [Tech_Stack]</h2>
+<h2 align="center">🛠️ Tech Stack</h2>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,python,mysql,git,linux,c,html,css,github,vscode&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=cpp" width="60"/>
+  <img src="https://skillicons.dev/icons?i=python" width="60"/>
+  <img src="https://skillicons.dev/icons?i=mysql" width="60"/>
+  <img src="https://skillicons.dev/icons?i=html" width="60"/>
+  <img src="https://skillicons.dev/icons?i=css" width="60"/>
+  <img src="https://skillicons.dev/icons?i=git" width="60"/>
+  <img src="https://skillicons.dev/icons?i=linux" width="60"/>
+  <img src="https://skillicons.dev/icons?i=c" width="60"/>
 </p>
 
-<p align="center" style="font-family: 'Courier New'; color: #FF0000;">
-<b>C++</b> • <b>Python</b> • <b>MySQL</b> • <b>HTML5</b> • <b>CSS</b> • <b>Git</b> • <b>Linux</b> • <b>C</b>
+<p align="center">
+  <b>C++</b> &nbsp;•&nbsp;
+  <b>Python</b> &nbsp;•&nbsp;
+  <b>MySQL</b> &nbsp;•&nbsp;
+  <b>HTML5</b> &nbsp;•&nbsp;
+  <b>CSS</b> &nbsp;•&nbsp;
+  <b>Git</b> &nbsp;•&nbsp;
+  <b>Linux</b> &nbsp;•&nbsp;
+  <b>C</b>
 </p>
-
 ---
 
 <h2 align="center" style="font-family: 'Courier New'; color: #FF0000;">📊 [Development_Stats]</h2>
