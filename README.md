@@ -9,13 +9,14 @@
 <table align="center" width="100%">
   <tr>
     <td bgcolor="#0D1117" style="border: 1px solid #FF0000; border-radius: 10px; padding: 20px;">
-      <h2 align="center" style="font-family: 'Courier New'; color: #FF0000;">🚀 [About_Me]</h2>
+      <h2 align="center" style="font-family: 'Courier New'; color: #FF0000;">🚀 About Me</h2>
       <p align="center" style="font-family: 'Fira Code', monospace; line-height: 1.6; color: #E0E0E0;">
-        🎯 <b>Aspiring AI/ML Engineer</b> with a strong focus on Data Structures &amp; Algorithms <br>
-        💻 Skilled in <b>C++ (OOP)</b>, <b>Python</b>, and <b>MySQL</b> for building efficient solutions <br>
-        🧠 Strengthening fundamentals in <b>Probability, Statistics &amp; Mathematics</b> <br>
-        🚀 Passionate about problem-solving and AI applications <br>
-        📚 Currently diving deeper into <b>Advanced DSA</b>
+        🎯 <b>Aspiring AI/ML Engineer</b> focused on building intelligent and data-driven solutions <br>
+        🤖 Exploring <b>Machine Learning & Deep Learning (TensorFlow)</b> <br>
+        📊 Working with <b>Pandas, NumPy & Scikit-learn</b> for data analysis and modeling <br>
+        💻 Strong foundation in <b>Python</b>, <b>C++ (OOP & DSA)</b>, and <b>MySQL</b> <br>
+        ⚙️ Interested in <b>APIs, backend systems</b> and real-world AI applications <br>
+        🧠 Continuously learning <b>Mathematics (Probability, Statistics)</b> to strengthen ML concepts
       </p>
     </td>
   </tr>
@@ -26,12 +27,13 @@
 <table align="center" width="100%">
   <tr>
     <td bgcolor="#0D1117" style="border: 1px solid #FF0000; border-radius: 10px; padding: 20px;">
-      <h2 align="center" style="font-family: 'Courier New'; color: #FF0000;">🧠 [Core_Strengths]</h2>
+      <h2 align="center" style="font-family: 'Courier New'; color: #FF0000;">🧠 Core Strengths</h2>
       <p align="center" style="font-family: 'Fira Code', monospace; color: #E0E0E0;">
-        ⚡ <b>Theoretical + Practical:</b> I don't just learn theory; I build and deploy. <br>
-        🛠️ <b>Full-Spectrum Dev:</b> Combining <b>C++ Performance</b> with <b>AI/ML Logic</b>. <br>
-        🔄 <b>Versatility:</b> Comfortable in <b>Linux</b> environments and proficient in <b>Git</b> version control. <br>
-        📊 <b>Analytical Mindset:</b> Transitioning into data-driven technologies and specialized engineering.
+        ⚡ <b>Problem-Solving Mindset:</b> Strong foundation in <b>DSA (C++)</b> with a focus on writing efficient and optimized solutions <br>
+        🤖 <b>AI/ML Focus:</b> Actively building skills in <b>Machine Learning & Deep Learning</b> using Python and modern tools <br>
+        📊 <b>Data Handling:</b> Comfortable working with <b>Pandas, NumPy</b> and <b>MySQL</b> for data analysis and preprocessing <br>
+        🔄 <b>Development Workflow:</b> Familiar with <b>Git</b>, <b>Linux</b>, and structured coding practices <br>
+        🧠 <b>Analytical Thinking:</b> Strong logical reasoning and pattern recognition developed through coding and problem-solving
       </p>
     </td>
   </tr>
@@ -65,7 +67,7 @@
 
 ---
 
-<h2 align="center" style="font-family: 'Courier New'; color: #FF0000;">📊 [Development_Stats]</h2>
+<h2 align="center" style="font-family: 'Courier New'; color: #FF0000;">📊 Development Stats</h2>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=anuragsingh846&show_icons=true&theme=radical&hide_border=true" width="48%" />
@@ -74,22 +76,23 @@
 
 ---
 
-<h2 align="center" style="font-family: 'Courier New'; color: #FF0000;">𖤐 [Current_Focus] 𖤐</h2>
+<h2 align="center" style="font-family: 'Courier New'; color: #FF0000;">𖤐 Current Focus 𖤐</h2>
 
 <p align="center" style="font-family: 'Fira Code', monospace; color: #E0E0E0;">
-🔹 <b>Mastering DSA:</b> Building consistency in high-level problem solving. <br>
-🔹 <b>C++ Fundamentals:</b> Writing clean, optimized, and industry-standard code. <br>
-🔹 <b>AI/ML Specialization:</b> Transitioning from foundation to specialized project building.
+🔹 <b>Machine Learning & Deep Learning:</b> Actively learning and building projects using TensorFlow and Scikit-learn <br>
+🔹 <b>Data Analysis & Preprocessing:</b> Working with Pandas, NumPy, and MySQL to handle real-world datasets <br>
+🔹 <b>DSA & Problem Solving:</b> Strengthening logic and efficiency through consistent practice in C++ <br>
+🔹 <b>Project Building:</b> Applying concepts by creating real-world AI/ML applications
 </p>
 
 ---
 
-<h2 align="center" style="font-family: 'Courier New'; color: #FF0000;">📂 [Featured_Projects]</h2>
+<h2 align="center" style="font-family: 'Courier New'; color: #FF0000;">📂 Featured Projects</h2>
 
 <p align="center" style="font-family: 'Fira Code', monospace; color: #E0E0E0;">
-📌 <b>Library Management System:</b> Python + MySQL integrated solution. <br>
-📌 <b>DSA Practice Repository:</b> Documenting my journey through complex algorithms. <br>
-📌 <i>More AI/ML projects coming soon...</i>
+📌 <b>Library Management System:</b> Built using <b>Python & MySQL</b> for efficient data storage, retrieval, and management <br>
+📌 <b>DSA Practice Repository:</b> Structured collection of <b>Data Structures & Algorithms</b> problems showcasing problem-solving skills <br>
+📌 <b>Upcoming AI/ML Projects:</b> Currently working on <b>Machine Learning & Deep Learning</b> projects involving real-world datasets
 </p>
 
 ---
