@@ -8,7 +8,7 @@
 </p> -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=600&amp;size=22&amp;duration=2500&amp;pause=1000&amp;color=00E5FF&amp;center=true&amp;vCenter=true&amp;repeat=false&amp;width=700&amp;height=50&amp;lines=Machine+Learning+and+Deep+Learning;Turning+data+into+decisions;Python+%7C+C%2B%2B+%7C+SQL;Building+intelligent+systems" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=600&amp;size=22&amp;duration=2500&amp;pause=1000&amp;color=00E5FF&amp;center=true&amp;vCenter=true&amp;repeat=true&amp;width=700&amp;height=50&amp;lines=Machine+Learning+and+Deep+Learning;Turning+data+into+decisions;Python+Java+SQL;Building+intelligent+systems" />
 </p>
 
 <p align="center">
@@ -19,7 +19,7 @@
 <img src="https://capsule-render.vercel.app/api?type=rect&amp;color=0:0B0F19,50:00E5FF,100:0B0F19&amp;height=2" width="100%"/>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=600&amp;size=20&amp;duration=2500&amp;pause=1000&amp;color=00E5FF&amp;center=true&amp;vCenter=true&amp;repeat=false&amp;width=500&amp;height=40&amp;lines=%2F%2F+ABOUT" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=600&amp;size=20&amp;duration=2500&amp;pause=1000&amp;color=00E5FF&amp;center=true&amp;vCenter=true&amp;repeat=false&amp;width=500&amp;height=40&amp;lines=%5B+ABOUT+%5D" />
 </p>
 
 ```python
@@ -42,7 +42,7 @@ class AnuragSingh:
 <img src="https://capsule-render.vercel.app/api?type=rect&amp;color=0:0B0F19,50:00E5FF,100:0B0F19&amp;height=2" width="100%"/>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=600&amp;size=20&amp;duration=2500&amp;pause=1000&amp;color=00E5FF&amp;center=true&amp;vCenter=true&amp;repeat=false&amp;width=500&amp;height=40&amp;lines=%2F%2F+TECH%20ARSENAL" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=600&amp;size=20&amp;duration=2500&amp;pause=1000&amp;color=00E5FF&amp;center=true&amp;vCenter=true&amp;repeat=false&amp;width=500&amp;height=40&amp;lines=%5B+TECH%20ARSENAL+%5D" />
 </p>
 
 <p align="center">
@@ -64,7 +64,7 @@ class AnuragSingh:
 <img src="https://capsule-render.vercel.app/api?type=rect&amp;color=0:0B0F19,50:00E5FF,100:0B0F19&amp;height=2" width="100%"/>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=600&amp;size=20&amp;duration=2500&amp;pause=1000&amp;color=00E5FF&amp;center=true&amp;vCenter=true&amp;repeat=false&amp;width=500&amp;height=40&amp;lines=%2F%2F+HOW%20I%20BUILD" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=600&amp;size=20&amp;duration=2500&amp;pause=1000&amp;color=00E5FF&amp;center=true&amp;vCenter=true&amp;repeat=false&amp;width=500&amp;height=40&amp;lines=%5B+HOW%20I%20BUILD+%5D" />
 </p>
 
 | | Stage | What I do |
@@ -78,7 +78,7 @@ class AnuragSingh:
 <img src="https://capsule-render.vercel.app/api?type=rect&amp;color=0:0B0F19,50:00E5FF,100:0B0F19&amp;height=2" width="100%"/>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=600&amp;size=20&amp;duration=2500&amp;pause=1000&amp;color=00E5FF&amp;center=true&amp;vCenter=true&amp;repeat=false&amp;width=500&amp;height=40&amp;lines=%2F%2F+FEATURED%20PROJECTS" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=600&amp;size=20&amp;duration=2500&amp;pause=1000&amp;color=00E5FF&amp;center=true&amp;vCenter=true&amp;repeat=false&amp;width=500&amp;height=40&amp;lines=%5B+FEATURED%20PROJECTS+%5D" />
 </p>
 
 | Project | Stack | What it does |
@@ -92,7 +92,7 @@ class AnuragSingh:
 <img src="https://capsule-render.vercel.app/api?type=rect&amp;color=0:0B0F19,50:00E5FF,100:0B0F19&amp;height=2" width="100%"/>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=600&amp;size=20&amp;duration=2500&amp;pause=1000&amp;color=00E5FF&amp;center=true&amp;vCenter=true&amp;repeat=false&amp;width=500&amp;height=40&amp;lines=%2F%2F+FOCUS%20AREAS" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=600&amp;size=20&amp;duration=2500&amp;pause=1000&amp;color=00E5FF&amp;center=true&amp;vCenter=true&amp;repeat=false&amp;width=500&amp;height=40&amp;lines=%5B+FOCUS%20AREAS+%5D" />
 </p>
 
 | Area | Focus |
@@ -105,28 +105,33 @@ class AnuragSingh:
 <img src="https://capsule-render.vercel.app/api?type=rect&amp;color=0:0B0F19,50:00E5FF,100:0B0F19&amp;height=2" width="100%"/>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=600&amp;size=20&amp;duration=2500&amp;pause=1000&amp;color=00E5FF&amp;center=true&amp;vCenter=true&amp;repeat=false&amp;width=500&amp;height=40&amp;lines=%2F%2F+GITHUB%20ANALYTICS" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=600&amp;size=20&amp;duration=2500&amp;pause=1000&amp;color=00E5FF&amp;center=true&amp;vCenter=true&amp;repeat=false&amp;width=500&amp;height=40&amp;lines=%5B+GITHUB%20ANALYTICS+%5D" />
 </p>
 
-<p align="center">
-  <img src="./metrics.svg" width="100%"/>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=anuragsingh846&amp;theme=dark&amp;background=0B0F19&amp;ring=00E5FF&amp;fire=00E5FF&amp;currStreakNum=FFFFFF&amp;sideNums=FFFFFF&amp;currStreakLabel=00E5FF&amp;sideLabels=E8E8E8&amp;dates=9A9A9A&amp;border=1E3A5F" width="70%" />
-</p>
+<table align="center" width="100%">
+  <tr>
+    <td style="border:1px solid rgba(0,229,255,0.25);border-radius:12px;padding:18px;text-align:center;">
+      <a href="https://github.com/anuragsingh846"><img src="./metrics.svg" alt="GitHub metrics, regenerated daily" width="100%" /></a>
+    </td>
+  </tr>
+  <tr>
+    <td style="border:1px solid rgba(0,229,255,0.25);border-radius:12px;padding:18px;text-align:center;">
+      <a href="https://github.com/anuragsingh846"><img src="https://streak-stats.demolab.com/?user=anuragsingh846&amp;theme=dark&amp;background=0B0F19&amp;ring=00E5FF&amp;fire=00E5FF&amp;currStreakNum=FFFFFF&amp;sideNums=FFFFFF&amp;currStreakLabel=00E5FF&amp;sideLabels=E8E8E8&amp;dates=9A9A9A&amp;border=1E3A5F" alt="GitHub streak" width="70%" /></a>
+    </td>
+  </tr>
+</table>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&amp;color=0:0B0F19,50:00E5FF,100:0B0F19&amp;height=2" width="100%"/>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=600&amp;size=20&amp;duration=2500&amp;pause=1000&amp;color=00E5FF&amp;center=true&amp;vCenter=true&amp;repeat=false&amp;width=500&amp;height=40&amp;lines=%2F%2F+LET%27S%20CONNECT" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=600&amp;size=20&amp;duration=2500&amp;pause=1000&amp;color=00E5FF&amp;center=true&amp;vCenter=true&amp;repeat=false&amp;width=500&amp;height=40&amp;lines=%5B+LET%27S%20CONNECT+%5D" />
 </p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/anurag-singh-53440a377/"><img src="https://img.shields.io/badge/LinkedIn-0B0F19?style=for-the-badge&amp;logo=linkedin&amp;logoColor=00E5FF" /></a>
   <a href="mailto:sagar4uallthetime@gmail.com"><img src="https://img.shields.io/badge/Email-0B0F19?style=for-the-badge&amp;logo=gmail&amp;logoColor=00E5FF" /></a>
   <a href="https://x.com/__dot_dot_"><img src="https://img.shields.io/badge/X-0B0F19?style=for-the-badge&amp;logo=x&amp;logoColor=00E5FF" /></a>
-  <a href="https://www.instagram.com/ordinary.ocean/"><img src="https://img.shields.io/badge/Instagram-0B0F19?style=for-the-badge&amp;logo=instagram&amp;logoColor=00E5FF" /></a>
+  <a href="https://www.instagram.com/__dot_dot_/"><img src="https://img.shields.io/badge/Instagram-0B0F19?style=for-the-badge&amp;logo=instagram&amp;logoColor=00E5FF" /></a>
 </p>
 
 <p align="center">
