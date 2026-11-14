@@ -1,0 +1,27 @@
+# Save this file at: .github/workflows/metrics.yml  (inside your anuragsingh846 profile repo)
+name: Profile metrics
+
+on:
+  schedule:
+    - cron: "0 0 * * *"      # refresh every day
+  workflow_dispatch:           # also run manually from the Actions tab
+  push:
+    branches: [ main ]
+
+permissions:
+  contents: write              # lets the action commit metrics.svg back to the repo
+
+jobs:
+  metrics:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: lowlighter/metrics@latest
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          user: anuragsingh846
+          filename: metrics.svg
+          template: classic
+          base: header, activity, community, repositories, metadata
+          plugin_languages: yes
+          plugin_languages_limit: 8
+          config_timezone: Asia/Kolkata
